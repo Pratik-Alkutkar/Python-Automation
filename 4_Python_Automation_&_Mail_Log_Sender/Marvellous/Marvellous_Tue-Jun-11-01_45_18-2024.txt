@@ -1,0 +1,222 @@
+--------------------------------------------------------------------------------
+SVG Group's Process Logger:Tue Jun 11 01:45:18 2024
+--------------------------------------------------------------------------------
+
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 0, 'name': 'System Idle Process', 'vms': 0.05859375}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 4, 'name': 'System', 'vms': 0.25390625}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 124, 'name': 'Registry', 'vms': 9.1953125}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 316, 'name': 'nvcontainer.exe', 'vms': 8.53125}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 404, 'name': 'Loom.exe', 'vms': 84.37109375}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 460, 'name': 'smss.exe', 'vms': 1.05859375}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 612, 'name': 'svchost.exe', 'vms': 12.3515625}
+{'username': 'Font Driver Host\\UMFD-0', 'pid': 696, 'name': 'fontdrvhost.exe', 'vms': 1.27734375}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 708, 'name': 'csrss.exe', 'vms': 1.99609375}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 796, 'name': 'wininit.exe', 'vms': 1.3984375}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 808, 'name': 'csrss.exe', 'vms': 2.7265625}
+{'username': 'Font Driver Host\\UMFD-1', 'pid': 812, 'name': 'fontdrvhost.exe', 'vms': 3.8515625}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 872, 'name': 'services.exe', 'vms': 5.29296875}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 880, 'name': 'lsass.exe', 'vms': 8.875}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 968, 'name': 'winlogon.exe', 'vms': 2.65625}
+{'username': 'NT AUTHORITY\\NETWORK SERVICE', 'pid': 1064, 'name': 'svchost.exe', 'vms': 8.140625}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 1100, 'name': 'BraveCrashHandler.exe', 'vms': 1.71875}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 1112, 'name': 'svchost.exe', 'vms': 2.62109375}
+{'username': 'Window Manager\\DWM-1', 'pid': 1200, 'name': 'dwm.exe', 'vms': 115.27734375}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 1248, 'name': 'svchost.exe', 'vms': 2.18359375}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'pid': 1336, 'name': 'svchost.exe', 'vms': 15.05078125}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'pid': 1344, 'name': 'svchost.exe', 'vms': 1.25390625}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 1364, 'name': 'BraveCrashHandler64.exe', 'vms': 1.84375}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 1416, 'name': 'svchost.exe', 'vms': 1.64453125}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'pid': 1428, 'name': 'svchost.exe', 'vms': 5.4140625}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 1532, 'name': 'RiotClientServices.exe', 'vms': 90.26953125}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 1540, 'name': 'svchost.exe', 'vms': 8.41015625}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 1576, 'name': 'vmms.exe', 'vms': 38.4765625}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'pid': 1612, 'name': 'svchost.exe', 'vms': 4.78515625}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 1628, 'name': 'RuntimeBroker.exe', 'vms': 4.6875}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'pid': 1632, 'name': 'svchost.exe', 'vms': 1.5703125}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'pid': 1640, 'name': 'svchost.exe', 'vms': 2.3046875}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'pid': 1696, 'name': 'WUDFHost.exe', 'vms': 1.8671875}
+{'username': 'NT AUTHORITY\\NETWORK SERVICE', 'pid': 1712, 'name': 'svchost.exe', 'vms': 5.46875}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'pid': 1740, 'name': 'svchost.exe', 'vms': 2.00390625}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 1788, 'name': 'svchost.exe', 'vms': 1.7421875}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 1804, 'name': 'svchost.exe', 'vms': 1.7890625}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 1824, 'name': 'svchost.exe', 'vms': 5.02734375}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 1848, 'name': 'svchost.exe', 'vms': 6.421875}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 1864, 'name': 'Code.exe', 'vms': 27.88671875}
+{'username': 'NT AUTHORITY\\NETWORK SERVICE', 'pid': 1920, 'name': 'svchost.exe', 'vms': 4.2890625}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 1964, 'name': 'NVDisplay.Container.exe', 'vms': 20.73828125}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 1984, 'name': 'svchost.exe', 'vms': 3.26171875}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 2028, 'name': 'svchost.exe', 'vms': 5.65625}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 2036, 'name': 'svchost.exe', 'vms': 3.25}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 2068, 'name': 'svchost.exe', 'vms': 2.9609375}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 2132, 'name': 'chrome.exe', 'vms': 29.26953125}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 2140, 'name': 'CalculatorApp.exe', 'vms': 44.63671875}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'pid': 2152, 'name': 'svchost.exe', 'vms': 2.921875}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 2184, 'name': 'RuntimeBroker.exe', 'vms': 7.80078125}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 2200, 'name': 'svchost.exe', 'vms': 162.46875}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 2208, 'name': 'svchost.exe', 'vms': 1.30859375}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'pid': 2220, 'name': 'svchost.exe', 'vms': 1.90234375}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 2248, 'name': 'brave.exe', 'vms': 302.328125}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 2272, 'name': 'conhost.exe', 'vms': 8.7890625}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 2304, 'name': 'MemCompression', 'vms': 0.76953125}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 2364, 'name': 'ApplicationFrameHost.exe', 'vms': 29.734375}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 2392, 'name': 'svchost.exe', 'vms': 1.7890625}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 2512, 'name': 'svchost.exe', 'vms': 2.55859375}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'pid': 2520, 'name': 'svchost.exe', 'vms': 2.19921875}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'pid': 2644, 'name': 'svchost.exe', 'vms': 12.84375}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 2668, 'name': 'Code.exe', 'vms': 46.04296875}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 2700, 'name': 'svchost.exe', 'vms': 9.60546875}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 2856, 'name': 'svchost.exe', 'vms': 3.5390625}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 2872, 'name': 'svchost.exe', 'vms': 11.16796875}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 2936, 'name': 'svchost.exe', 'vms': 1.4453125}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 2996, 'name': 'WhatsApp.exe', 'vms': 100.16796875}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'pid': 3000, 'name': 'svchost.exe', 'vms': 4.25390625}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 3012, 'name': 'ShellExperienceHost.exe', 'vms': 75.44140625}
+{'username': 'NT AUTHORITY\\NETWORK SERVICE', 'pid': 3088, 'name': 'svchost.exe', 'vms': 3.56640625}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'pid': 3096, 'name': 'svchost.exe', 'vms': 2.328125}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'pid': 3104, 'name': 'svchost.exe', 'vms': 1.63671875}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 3160, 'name': 'svchost.exe', 'vms': 2.28125}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 3172, 'name': 'PhoneExperienceHost.exe', 'vms': 81.15234375}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 3268, 'name': 'explorer.exe', 'vms': 212.4296875}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'pid': 3280, 'name': 'svchost.exe', 'vms': 2.09765625}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'pid': 3288, 'name': 'svchost.exe', 'vms': 1.34765625}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 3312, 'name': 'svchost.exe', 'vms': 2.8828125}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 3348, 'name': 'fodhelper.exe', 'vms': 1.2421875}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 3480, 'name': 'spoolsv.exe', 'vms': 5.12890625}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 3532, 'name': 'NVIDIA Share.exe', 'vms': 68.3125}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'pid': 3592, 'name': 'svchost.exe', 'vms': 1.34765625}
+{'username': 'NT AUTHORITY\\NETWORK SERVICE', 'pid': 3652, 'name': 'svchost.exe', 'vms': 1.9921875}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 3704, 'name': 'svchost.exe', 'vms': 10.45703125}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 3724, 'name': 'rundll32.exe', 'vms': 1.41796875}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 3776, 'name': 'AggregatorHost.exe', 'vms': 0.92578125}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 3824, 'name': 'mDNSResponder.exe', 'vms': 1.859375}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'pid': 3832, 'name': 'svchost.exe', 'vms': 35.9296875}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 3840, 'name': 'svchost.exe', 'vms': 20.2734375}
+{'username': 'NT AUTHORITY\\NETWORK SERVICE', 'pid': 3848, 'name': 'sqlservr.exe', 'vms': 298.6328125}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 3892, 'name': 'svchost.exe', 'vms': 2.7890625}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 3916, 'name': 'svchost.exe', 'vms': 1.265625}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 3924, 'name': 'sqlwriter.exe', 'vms': 1.61328125}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'pid': 3932, 'name': 'svchost.exe', 'vms': 1.5234375}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 3940, 'name': 'svchost.exe', 'vms': 4.03125}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 3948, 'name': 'nvcontainer.exe', 'vms': 12.375}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 3956, 'name': 'RtkAudUService64.exe', 'vms': 2.9609375}
+{'username': 'NT AUTHORITY\\NETWORK SERVICE', 'pid': 3972, 'name': 'svchost.exe', 'vms': 7.59375}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 4020, 'name': 'dllhost.exe', 'vms': 8.11328125}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 4040, 'name': 'chrome.exe', 'vms': 27.1796875}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 4084, 'name': 'taskhostw.exe', 'vms': 11.68359375}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 4176, 'name': 'NVIDIA Share.exe', 'vms': 59.23046875}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 4248, 'name': 'svchost.exe', 'vms': 2.234375}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 4256, 'name': 'svchost.exe', 'vms': 6.0625}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 4260, 'name': 'RiotClientCrashHandler.exe', 'vms': 1.57421875}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 4304, 'name': 'nvcontainer.exe', 'vms': 63.05078125}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 4308, 'name': 'vgtray.exe', 'vms': 2.65625}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 4520, 'name': 'RuntimeBroker.exe', 'vms': 2.91015625}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 4592, 'name': 'TrustedInstaller.exe', 'vms': 2.0703125}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 4636, 'name': 'svchost.exe', 'vms': 1.74609375}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 4688, 'name': 'svchost.exe', 'vms': 3.3828125}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 4768, 'name': 'Loom.exe', 'vms': 71.17578125}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 4920, 'name': 'vmcompute.exe', 'vms': 1.8125}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 5068, 'name': 'ctfmon.exe', 'vms': 22.9140625}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 5132, 'name': 'TiWorker.exe', 'vms': 30.50390625}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 5368, 'name': 'Code.exe', 'vms': 111.91015625}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 5404, 'name': 'RuntimeBroker.exe', 'vms': 1.34375}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 5468, 'name': 'svchost.exe', 'vms': 1.8125}
+{'username': 'NT AUTHORITY\\NETWORK SERVICE', 'pid': 5496, 'name': 'svchost.exe', 'vms': 1.7734375}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'pid': 5684, 'name': 'svchost.exe', 'vms': 2.04296875}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 5768, 'name': 'chrome.exe', 'vms': 178.0078125}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 5796, 'name': 'python.exe', 'vms': 13.328125}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 5912, 'name': 'SearchIndexer.exe', 'vms': 52.296875}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 5944, 'name': 'SearchApp.exe', 'vms': 336.6640625}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 5976, 'name': 'Loom.exe', 'vms': 12.66796875}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 5992, 'name': 'conhost.exe', 'vms': 6.203125}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 6124, 'name': 'NVDisplay.Container.exe', 'vms': 36.48828125}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 6312, 'name': 'svchost.exe', 'vms': 11.69140625}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 6336, 'name': 'chrome.exe', 'vms': 111.515625}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'pid': 6340, 'name': 'svchost.exe', 'vms': 1.83203125}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 6428, 'name': 'svchost.exe', 'vms': 1.97265625}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 6452, 'name': 'UserOOBEBroker.exe', 'vms': 2.3515625}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'pid': 6480, 'name': 'svchost.exe', 'vms': 2.03125}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 6592, 'name': 'StartMenuExperienceHost.exe', 'vms': 59.42578125}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 6640, 'name': 'sihost.exe', 'vms': 7.80078125}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 6756, 'name': 'svchost.exe', 'vms': 2.8984375}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 6928, 'name': 'Code.exe', 'vms': 182.55859375}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 6988, 'name': 'chrome.exe', 'vms': 13.015625}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 7068, 'name': 'svchost.exe', 'vms': 5.29296875}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 7164, 'name': 'chrome.exe', 'vms': 25.15625}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 7212, 'name': 'brave.exe', 'vms': 17.05859375}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 7288, 'name': 'svchost.exe', 'vms': 2.56640625}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 7344, 'name': 'chrome.exe', 'vms': 11.2734375}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 7400, 'name': 'Microsoft.Media.Player.exe', 'vms': 49.78515625}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 7628, 'name': 'conhost.exe', 'vms': 6.20703125}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 7640, 'name': 'Loom.exe', 'vms': 11.4296875}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 7656, 'name': 'svchost.exe', 'vms': 5.984375}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 7692, 'name': 'RuntimeBroker.exe', 'vms': 14.5546875}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 7708, 'name': 'Un_A.exe', 'vms': 4.51953125}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 7752, 'name': 'RuntimeBroker.exe', 'vms': 6.5703125}
+{'username': 'NT AUTHORITY\\NETWORK SERVICE', 'pid': 7836, 'name': 'WmiPrvSE.exe', 'vms': 3.87109375}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 7920, 'name': 'loom-recorder-production.exe', 'vms': 3.19140625}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 7992, 'name': 'svchost.exe', 'vms': 1.703125}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 8032, 'name': 'powershell.exe', 'vms': 61.0390625}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 8176, 'name': 'svchost.exe', 'vms': 4.37109375}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 8188, 'name': 'chrome.exe', 'vms': 133.09375}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 8264, 'name': 'nvsphelper64.exe', 'vms': 2.92578125}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'pid': 8276, 'name': 'svchost.exe', 'vms': 3.68359375}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 8320, 'name': 'chrome.exe', 'vms': 138.2265625}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 8452, 'name': 'chrome.exe', 'vms': 42.09375}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 8492, 'name': 'loom_crashpad_handler.exe', 'vms': 1.5546875}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 8580, 'name': 'svchost.exe', 'vms': 4.58203125}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 8588, 'name': 'RuntimeBroker.exe', 'vms': 6.3046875}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 8596, 'name': 'NVIDIA Web Helper.exe', 'vms': 31.52734375}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 8604, 'name': 'chrome.exe', 'vms': 107.01171875}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 8668, 'name': 'Loom.exe', 'vms': 118.94140625}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 8688, 'name': 'conhost.exe', 'vms': 1.2421875}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 8788, 'name': 'RuntimeBroker.exe', 'vms': 1.453125}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 8796, 'name': 'conhost.exe', 'vms': 6.21484375}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 9392, 'name': 'TextInputHost.exe', 'vms': 43.32421875}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 9460, 'name': 'powershell.exe', 'vms': 60.72265625}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 9536, 'name': 'Video.UI.exe', 'vms': 48.1484375}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 9552, 'name': 'NVIDIA Share.exe', 'vms': 80.05078125}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 9668, 'name': 'Code.exe', 'vms': 107.7421875}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 9848, 'name': 'brave.exe', 'vms': 9.34375}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 9912, 'name': 'explorer.exe', 'vms': 20.66015625}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 10072, 'name': 'chrome.exe', 'vms': 27.3671875}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 10104, 'name': 'SystemSettings.exe', 'vms': 54.49609375}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 10220, 'name': 'python.exe', 'vms': 39.1328125}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'pid': 10280, 'name': 'audiodg.exe', 'vms': 18.07421875}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 10356, 'name': 'Code.exe', 'vms': 27.83984375}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 10408, 'name': 'RuntimeBroker.exe', 'vms': 5.796875}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 10520, 'name': 'chrome.exe', 'vms': 6.44921875}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 10548, 'name': 'Loom.exe', 'vms': 72.67578125}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 10700, 'name': 'Loom.exe', 'vms': 96.4296875}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 10828, 'name': 'brave.exe', 'vms': 166.91796875}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 10848, 'name': 'brave.exe', 'vms': 7.9921875}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 10948, 'name': 'Loom.exe', 'vms': 10.7421875}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 10960, 'name': 'brave.exe', 'vms': 20.26953125}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 11116, 'name': 'chrome.exe', 'vms': 16.2578125}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 11220, 'name': 'SearchApp.exe', 'vms': 277.04296875}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 11288, 'name': 'brave.exe', 'vms': 20.3828125}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 11588, 'name': 'conhost.exe', 'vms': 6.203125}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 11704, 'name': 'Loom.exe', 'vms': 75.9296875}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 11728, 'name': 'Code.exe', 'vms': 216.6796875}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 12004, 'name': 'CompPkgSrv.exe', 'vms': 1.6953125}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'pid': 12108, 'name': 'svchost.exe', 'vms': 1.765625}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 12188, 'name': 'Code.exe', 'vms': 10.734375}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 12292, 'name': 'svchost.exe', 'vms': 10.34765625}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 12364, 'name': 'SystemSettingsBroker.exe', 'vms': 3.9140625}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 12872, 'name': 'brave.exe', 'vms': 189.1953125}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 12916, 'name': 'chrome.exe', 'vms': 49.19921875}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 13024, 'name': 'RuntimeBroker.exe', 'vms': 6.42578125}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 13128, 'name': 'brave.exe', 'vms': 2.0703125}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 13152, 'name': 'taskhostw.exe', 'vms': 5.3046875}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 13160, 'name': 'Code.exe', 'vms': 230.8984375}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 13420, 'name': 'chrome.exe', 'vms': 24.45703125}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 13440, 'name': 'conhost.exe', 'vms': 1.24609375}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 13708, 'name': 'brave.exe', 'vms': 9.03125}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 13728, 'name': 'Code.exe', 'vms': 184.05859375}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 13856, 'name': 'brave.exe', 'vms': 840.16796875}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 14000, 'name': 'cmd.exe', 'vms': 2.48828125}
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 14296, 'name': 'svchost.exe', 'vms': 1.6875}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 14352, 'name': 'Code.exe', 'vms': 12.49609375}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 14480, 'name': 'Code.exe', 'vms': 61.0390625}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 14652, 'name': 'python.exe', 'vms': 38.5234375}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 14676, 'name': 'Code.exe', 'vms': 39.0625}
+{'username': 'DESKTOP-JRKBI6A\\alkut', 'pid': 14976, 'name': 'Code.exe', 'vms': 269.9453125}

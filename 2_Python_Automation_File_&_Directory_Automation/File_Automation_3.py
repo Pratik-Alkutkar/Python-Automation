@@ -1,0 +1,54 @@
+"""
+Date:- 26-05-2024
+Code No:- 3
+Code:- --h and --u is for third party reader to understand the Script. Writing in a more better way.
+"""
+
+import sys
+
+def Addition(A,B):
+    return A + B
+
+def main():
+    print("_____________________________________________________")
+    print("-----------Automation to perform Addition-----------")
+    print("_____________________________________________________")
+
+    if (len(sys.argv) == 2):
+        if (sys.argv[1]== "--h" or sys.argv[1]=="--H"):
+            print("This Script is used to perform Addition of 2 integral values")
+            exit()
+
+        if (sys.argv[1]== "--u" or sys.argv[1]=="--U"):
+            print("Usage of the Script: ")
+            print("Name_Of_File First_Argument Second_Argument")
+            print("Note:- Both the arguments must be in integral format.")
+            exit()
+
+        else:
+            print("Invalid Option")
+            print("Use --h option to get the help and use --u option to get the usage of Application")
+            exit()
+
+    if (len(sys.argv)==3):
+        try:
+            ret = Addition(int(sys.argv[1]), int(sys.argv[2]))
+            print("Addition is: ",ret)
+
+        except ValueError as obj1:       ##
+            print("Invalid Input")
+
+        except Exception as obj2:        ##
+            print("Invalid Input")
+
+    else:
+        print("Invalid Option")
+        print("Use --h option to get the help and use --u option to get the usage of Application")
+        exit()
+
+    print("_____________________________________________________")
+    print("-----------Thank You for using our Script------------")
+    print("______________Pratik Pramod Alkutkar_________________")
+
+if __name__ == "__main__":
+    main()
